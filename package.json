@@ -1,8 +1,8 @@
 {
-  "name": "grunt-webp",
+  "name": "grunt-webp-modify",
   "description": "Convert images to WebP format.",
   "version": "0.0.1",
-  "homepage": "https://github.com/somerandomdude/grunt-webp",
+  "homepage": "https://github.com/Krytius/grunt-webp-modify.git",
   "author": {
     "name": "P.J. Onori",
     "email": "pj@somerandomdude.com",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/somerandomdude/grunt-webp.git"
+    "url": "git@github.com:Krytius/grunt-webp-modify.git"
   },
   "bugs": {
-    "url": "https://github.com/somerandomdude/grunt-webp/issues"
+    "url": "https://github.com/Krytius/grunt-webp-modify/issues"
   },
   "licenses": [
     {
