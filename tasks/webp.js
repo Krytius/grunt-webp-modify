@@ -71,7 +71,7 @@ Experimental Options:
 
 module.exports = function(grunt) {
   var path = require('path');
-  grunt.registerMultiTask('webp', 'WebP image format converter.', function() {
+  grunt.registerMultiTask('webp-mod', 'WebP image format converter.', function() {
     /**
      * Retrieves defined options.
      */
