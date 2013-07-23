@@ -1,7 +1,7 @@
 {
-  "name": "grunt-webp-modify",
+  "name": "grunt-webp-mod",
   "description": "Convert images to WebP format.",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "homepage": "https://github.com/Krytius/grunt-webp-modify.git",
   "author": {
     "name": "P.J. Onori",
@@ -18,7 +18,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/somerandomdude/grunt-webp/blob/master/LICENSE-MIT"
+      "url": "https://github.com/Krytius/grunt-webp-modify/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
@@ -45,10 +45,10 @@
   ],
   "readme": "grunt-webp\n==========\n\nConvert your images to [WebP](https://developers.google.com/speed/webp/) format.\n\n## Getting Started\n\nTo install this plugin, open up the terminal, `cd` to your project's root directory and run the following command:\n\n```shell\nnpm install grunt-webp --save-dev\n```\n\nIn your `Gruntfile.js` file add the following line:\n\n```js\ngrunt.loadNpmTasks('grunt-webp');\n```\n\nThis plugin requires Grunt `~0.4.0`",
   "readmeFilename": "README.md",
-  "_id": "grunt-webp@0.0.1",
+  "_id": "grunt-webp-mod@0.0.4",
   "dist": {
     "shasum": "356ecbdd145c9b8c040c8f52a2b1baa247024f51"
   },
-  "_from": "grunt-webp@0.0.1",
+  "_from": "grunt-webp-mod@0.0.4",
   "_resolved": "https://registry.npmjs.org/grunt-webp/-/grunt-webp-0.0.1.tgz"
 }
